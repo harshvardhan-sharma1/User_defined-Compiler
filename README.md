@@ -1,4 +1,4 @@
-# CS152_Project
+# Compilers Project
 
 ## Language name: Plain
 
